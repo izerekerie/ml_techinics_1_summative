@@ -1,0 +1,12 @@
+# Cache directories
+.mypy_cache/
+__pycache__/
+
+# Model checkpoints and weights
+mamacare_colab_results/
+*.pt
+*.safetensors
+
+# Generated files
+*.docx
+generate_report.py
